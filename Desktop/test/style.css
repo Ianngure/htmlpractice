@@ -1,0 +1,42 @@
+
+.topnav{
+    border-width: 10px;
+    border-color: azure;
+    border-style: solid;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+.topnav{
+    float: left;
+    color: lawngreen;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+}
+.topnav a:hover {
+    background-color: gray;
+    color: black;
+}
+.topnav a.active {
+    background-color: lightgrey;
+    color: white;
+}
+.container{
+    border-width: 10px;
+    border-color:blueviolet;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 30px;
+    width: 200px;
+    margin-top: 100px;
+
+}
+
+
+.square{
+    width: 30px;
+    height: 30px;
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
