@@ -1,12 +1,43 @@
 .full{
-    background-color: #ffd5af;
+    background-color: grey;
+    border-radius: 90px;
 }
-.heading{
-    background-color: #e59a59;
+.jina{ 
+    text-align: center;
+    font-size: 50px;
+    background: gainsboro;
+    border-radius: 100px;
 }
+span{
+    color: rgb(110, 5, 5);
+}
+
 .h1s{
-    color: #910f0f;
+    color: navy;
 }
 #h2{
-    color: #910f0f;
+    color: navy;
+}
+.paragraph{
+    color: rgb(110, 5, 5);
+    font-size: 25px;
+}
+.list{
+    font-size: 25px;
+    color: rgb(110, 5, 5);
+}
+.image{
+    margin-left: 750px;
+}
+#me{
+    margin-left: 750px;
+    color: navy;
+}
+.appa{
+    margin-left: 750px;
+    font-size: 25px;
+    color: navy;
+}
+.media{
+    font-size: 25px;
 }
